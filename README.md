@@ -1,8 +1,8 @@
 <h1 align="left">Yo👋, eu sou Luis</h1>
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="center">Sobre mim 🙋🏻‍♂️</h2>
 
-<p align="left">Atualmente cursando o 2º e último ano de Desenvolvimento de Sistemas no SENAI Suiço Brasileira 🏫📖</p>
+<p align="center">Atualmente cursando o 2º e último ano de Desenvolvimento de Sistemas no SENAI Suiço Brasileira 🏫📖</p>
 
 <h2 align="center">Ferramentas principais 🔧</h2>
 
