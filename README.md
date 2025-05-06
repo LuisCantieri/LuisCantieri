@@ -38,9 +38,6 @@
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=LuisCantieri&show_icons=true&theme=midnight-purple&count_private=true&hide_border=false" height="150" />
   
-  <!-- Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCantieri&layout=compact&theme=midnight-purple&langs_count=6&hide_border=false" height="150" />
-  
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com/?user=LuisCantieri&theme=midnight-purple&hide_border=false" height="150" />
 </div>
