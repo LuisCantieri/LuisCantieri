@@ -1,8 +1,8 @@
-<h1 align="center">Yo👋, I'm Luis</h1>
+<h1 align="left">Yo👋, I'm Luis</h1>
 
-<h2 align="center">About me 🙋🏻‍♂️</h2>
+<h2 align="left">About me 🙋🏻‍♂️</h2>
 
-<p align="center">Currently studying the 2nd and final year of Systems Development at SENAI Suiço Brasileira 🏫📖</p>
+<p align="left">Currently studying the 2nd and final year of Systems Development at SENAI Suiço Brasileira 🏫📖</p>
 
 <h2 align="center">Main tools 🔧</h2>
 
@@ -44,6 +44,10 @@
 <!-- Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisCantieri&theme=react-dark&area=true&hide_border=false" height="300" />
+</div>
+<!-- Streak -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=LuisCantieri&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <!-- Contador de visitas -->
