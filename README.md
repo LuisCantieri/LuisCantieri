@@ -1,4 +1,4 @@
-<h1 align="left">Yo👋, eu sou Luis</h1>
+<h1 align="center">Yo👋, eu sou Luis</h1>
 
 <h2 align="center">Sobre mim 🙋🏻‍♂️</h2>
 
