@@ -48,7 +48,7 @@
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCantieri&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCantieri&theme=midnight-purple" />
 </div>
 
 <!-- Contador de visitas -->
