@@ -48,7 +48,7 @@
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ASSena&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3"  height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=LuisCantieri&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3"  height="140" alt="streak graph"  />
 </div>
 
 <!-- Contador de visitas -->
