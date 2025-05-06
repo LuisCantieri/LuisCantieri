@@ -50,15 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisCantieri&theme=react-dark&area=true&hide_border=false" height="300" />
 </div>
 
-<!-- Snake animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisCantieri/LuisCantieri/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisCantieri/LuisCantieri/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuisCantieri/LuisCantieri/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <!-- Contador de visitas -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/LuisCantieri/count.svg?" />
