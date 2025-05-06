@@ -48,7 +48,7 @@
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisCantieri&theme=midnight-purple&hide_border=false" height="140" />
+  <img src="https://streak-stats.demolab.com?user=LuisCantieri&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3"  height="140" alt="streak graph"  />
 </div>
 
 <!-- Contador de visitas -->
