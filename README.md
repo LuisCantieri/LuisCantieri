@@ -1,10 +1,10 @@
-<h1 align="center">Yo👋, eu sou Luis</h1>
+<h1 align="center">Yo👋, I'm Luis</h1>
 
-<h2 align="center">Sobre mim 🙋🏻‍♂️</h2>
+<h2 align="center">About me 🙋🏻‍♂️</h2>
 
-<p align="center">Atualmente cursando o 2º e último ano de Desenvolvimento de Sistemas no SENAI Suiço Brasileira 🏫📖</p>
+<p align="center">Currently studying the 2nd and final year of Systems Development at SENAI Suiço Brasileira 🏫📖</p>
 
-<h2 align="center">Ferramentas principais 🔧</h2>
+<h2 align="center">Main tools 🔧</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
 
-<h2 align="center">Linguagens principais 👾</h2>
+<h2 align="center">Main languages 👾</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
-<h2 align="center">Minhas estatísticas 🧑🏻‍💻</h2>
+<h2 align="center">My stats 🧑🏻‍💻</h2>
 
 <div align="center">
   <!-- Stats -->
