@@ -2,7 +2,7 @@
 
 <h2 align="left">About me 🙋🏻‍♂️</h2>
 
-<p align="left">Currently studying the 2nd and final year of Systems Development at SENAI Suiço Brasileira 🏫📖</p>
+<p align="left">Currently studying the 2nd and last year of Systems Development at SENAI Suiço Brasileira 🏫📖</p>
 
 <h2 align="center">Main tools 🔧</h2>
 
